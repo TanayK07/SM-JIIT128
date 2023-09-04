@@ -1,0 +1,15 @@
+								Project Synopsis
+
+Dear Students,
+
+
+You need to make a project in C/C++/Java in a group of maximum three. The project must have used any of the concept of data structures.
+
+The synopsis for the same need to be submitted on the following link (https://drive.google.com/drive/folders/1Paj5mvR_FmMJhMYl7-zLYPNurbu8Lej9?usp=sharing) and it contains following information
+1. Title page (Title, group member details (name and enrollnment number), course name, course code, faculty name, college name)
+2. Prolem statement
+3. Methodology
+4. Front-end and back-end technologies used
+5. The filename should be title of the project and it should be in .pdf format
+
+Thanks

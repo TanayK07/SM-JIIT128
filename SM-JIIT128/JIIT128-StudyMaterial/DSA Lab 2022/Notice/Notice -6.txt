@@ -1,0 +1,26 @@
+								Final Evaluation
+
+Dear Students,
+
+
+In the last week (i.e., 28th Nov to 03rd Dec, 2022) Project evaluation is scheduled in your respective lab slots.
+
+You need to bring the following documents:
+1. Project Report (one hard copy per group/project)
+2. Running code for demonstration
+3. Lab Record (containing week-wise assignment solutions done by you) (no hard copy required)
+	
+Link to upload Lab Record: https://forms.gle/Lmb8UrCRmCg11CXV9 
+Deadline: 26/11/2022
+
+The project evaluation will be of 20 marks with following parameters:
+
+Concept(novelty and utility)(3 Marks), 
+Implementation (7 Marks )(no of lines of codes and algorithms, completeness)
+Viva(5)
+Report (5 marks)
+
+
+	
+
+Thanks

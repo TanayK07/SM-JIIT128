@@ -1,0 +1,22 @@
+
+# Open the Window trace file
+  set winfile [open WinFile w]
+
+
+####################################################################
+# plotWindow(tcpSource,file): write CWND from $tcpSource
+#			      to output file $file every 0.1 sec
+  proc plotWindow {tcpSource file} {
+     global ns
+
+     set time 0.5
+     set now [$ns now]
+     set cwnd [$tcpSource set cwnd_]
+     set wnd [$tcpSource set window_]
+     puts $file "$now $cwnd"
+     $ns at [expr $now+$time] "plotWindow $tcpSource $file" 
+  }
+
+# ####################################################################
+# Start plotWindow
+  $ns at 0.5 "plotWindow $tcp $winfile"

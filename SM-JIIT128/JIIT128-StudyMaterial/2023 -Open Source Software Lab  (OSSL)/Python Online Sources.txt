@@ -1,0 +1,3 @@
+https://www.w3schools.com/python/python_intro.asp
+
+https://www.geeksforgeeks.org/introduction-to-python/

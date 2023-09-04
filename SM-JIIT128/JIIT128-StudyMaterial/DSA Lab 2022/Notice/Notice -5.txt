@@ -1,0 +1,12 @@
+								Lab Test 2
+
+Dear Students,
+
+
+In the next week (i.e., 21st Nov to 25th Nov, 2022) Lab Test 2 is scheduled in your respective lab slots.
+
+Syllabus: Graphs Representation – adjacency list, adjacency matrix, Traversal – BFS, DFS, Minimum spanning tree – Prims and Kruskal’s algorithm
+
+
+
+Thanks

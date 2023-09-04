@@ -1,0 +1,22 @@
+Dear Students,
+
+You have to perform the following labs on virtual lab platform (https://www.vlab.co.in/broad-area-computer-science-and-engineering)
+
+
+1. Linked List (https://ds1-iiith.vlabs.ac.in/exp/linked-list/index.html)
+
+2. Stack and Queues (https://ds1-iiith.vlabs.ac.in/exp/stacks-queues/index.html)
+
+3. Infix to Postix (https://ds1-iiith.vlabs.ac.in/exp/infix-postfix/index.html)
+
+4. Binary Search Trees (https://ds1-iiith.vlabs.ac.in/exp/binary-search-trees/index.html)
+
+5. Sorting Techniques
+	5.1 Bubble sort (https://ds1-iiith.vlabs.ac.in/exp/bubble-sort/index.html)
+	5.2 Merge Sort (https://ds1-iiith.vlabs.ac.in/exp/merge-sort/index.html)
+	5.3 Heap Sort (https://ds1-iiith.vlabs.ac.in/exp/heap-sort/index.html)
+	5.4 Quick Sort (https://ds1-iiith.vlabs.ac.in/exp/quick-sort/index.html)
+
+
+
+Go to above links and follow the instruction to perform the experiments.
